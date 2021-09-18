@@ -1,5 +1,4 @@
-<h1>JAVASCRIPT FUNCTIONS, ARRAYS, AND LOOPS</h1>
-<h2>Whale Talk</h2>
+<h1>Whale Talk</h1>
 Take a phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’.
 
 There are a few simple rules for translating text to whale language:
