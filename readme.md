@@ -1,12 +1,14 @@
 <h1>Whale Talk</h1>
-Take a phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’.
+<p>Take a phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’.<p>
 
-There are a few simple rules for translating text to whale language:
+<ul>There are a few simple rules for translating text to whale language:
 
-There are no consonants. Only vowels excluding “y”.
-The u‘s and e‘s are extra long, so we must double them in our program.
-Once we have converted text to the whale language, the result is sung slowly, as is a custom in the ocean.
+<li>There are no consonants. Only vowels excluding “y”.</li>
+<li>The u‘s and e‘s are extra long, so we must double them in our program.</li>
+<li>Once we have converted text to the whale language, the result is sung slowly, as is a custom in the ocean.</li>
 
-To accomplish this translation, we can use our knowledge of loops. Let’s get started!
+</ul>
 
-Taken from https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-functions-arrays-and-loops/modules/learn-javascript-loops/projects/whale-talk
+<p>To accomplish this translation, we can use our knowledge of loops. Let’s get started!</p>
+
+Taken from [Codeacademy's](https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-functions-arrays-and-loops/modules/learn-javascript-loops/projects/whale-talk) tutorial on JavaScript syntax
